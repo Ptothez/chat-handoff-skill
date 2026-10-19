@@ -1,0 +1,14 @@
+*
+!.gitignore
+!.gitattributes
+!README.md
+!skills/
+!skills/chat-handoff/
+!skills/chat-handoff/SKILL.md
+!skills/chat-handoff/references/
+!skills/chat-handoff/references/*.md
+!skills/chat-handoff/scripts/
+!skills/chat-handoff/scripts/*.py
+**/__pycache__/
+**/test_*.py
+**/evals/
