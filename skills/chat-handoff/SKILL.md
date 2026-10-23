@@ -5,6 +5,8 @@ description: 用户要求导出、追加或整理 AI 聊天时，保存双方原
 
 # Chat Handoff
 
+English: Save original AI conversations locally and maintain an index so another session or agent can continue. Run only when the user requests export, append, or organization; do not collect or upload chats automatically.
+
 ## 交付与边界
 
 只有用户明确触发导出、追加或整理时才执行。默认当前窗口；其他窗口、历史或全盘整理需要相应授权。不安装后台任务、监听器或自动采集，不因模型切换自动导出。
