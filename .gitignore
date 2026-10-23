@@ -2,6 +2,7 @@
 !.gitignore
 !.gitattributes
 !README.md
+!README.en.md
 !skills/
 !skills/chat-handoff/
 !skills/chat-handoff/SKILL.md
