@@ -1,8 +1,8 @@
 # Chat Handoff
 
-人工触发、原文留存、面向多个 Agent 的本地工作交接 Skill。
+把 AI 聊天完整保存到本地，让下一个 Agent 接着做。换模型、换会话后，不必重新解释整件事。
 
-Manually preserve original conversations locally so another agent can continue the work.
+你提出保存或追加的要求，AI 会找到合适的旧记录，保留双方原话，并更新一份可查找的目录。它不会安装后自动收集聊天。
 
 当同一项工作在不同 Agent 之间切换时，最有价值的上下文往往不只是结论，还包括用户原话、讨论过程、条件、否定和选择依据。这个 Skill 将用户选择留存的交互历史保存为可追溯的本地资产，并维护一份交接总览，帮助后续 Agent 找到正确的上下文和追加位置。
 
